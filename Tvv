@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.chucht.tvchu",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "ChuChu TV provides a collection of animated childhood sing-alongs and nursery rhymes, including many classics. Titles include Old MacDonald, Humpty Dumpty, Twinkle, Twinkle Little Star and more. "
+		},
+		{
+			"title": "Guide 2",
+			"description": " ChuChuTV is designed to engage children through a series of upbeat songs and colorful animations. All our songs will have lots of cute and funny characters that will entertain kids all over the world. We hope these videos will bring your family as much joy as we had creating it. Enjoy & Have Fun!"
+		},
+		{
+			"title": "Guide 3",
+			"description": " Support kids learning! ABC and Math, children nursery rhymes and dances, non-stop education and fun kid video songs. They will sing, dance and learn in a fun creative and safe way. ChuChu TV content promotes good values for kids, like loving, caring, sharing and helping others."
+		},
+		{
+			"title": "Guide 4  ",
+			"description": "ChuChuTV is designed to engage children through a series of upbeat songs and colorful animations. All our songs will have lots of ChuChu characters and these characters will entertain kids all over the world"
+		},
+		{
+			"title": "Guide 5",
+			"description": "ChuChuTV is one of several channels on the world’s most popular video site – YouTube, catering to young children, whose parents have increasingly looked online for kid-friendly entertainment. ChuChu TV, which offers a collection of colorfully-animated nursery rhyme videos, gives those parents exactly what they are looking for."
+		}
+	]
+}
